@@ -1,4 +1,4 @@
-import "@app/styles/globals.css";
+import "@app/styles/globals.scss";
 import { RecoilRoot } from "recoil";
 import { QueryClient, QueryClientProvider } from "react-query";
 
